@@ -1,0 +1,469 @@
+[2014-05-30 15:46:25]WARN  com.mchange.v2.c3p0.DriverManagerDataSource(line:108) -Could not load driverClass org.postgresql.Driver
+java.lang.ClassNotFoundException: org.postgresql.Driver
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:366)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:425)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:308)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:358)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:190)
+	at com.mchange.v2.c3p0.DriverManagerDataSource.ensureDriverLoaded(DriverManagerDataSource.java:101)
+	at com.mchange.v2.c3p0.DriverManagerDataSource.getConnection(DriverManagerDataSource.java:133)
+	at com.mchange.v2.c3p0.WrapperConnectionPoolDataSource.getPooledConnection(WrapperConnectionPoolDataSource.java:182)
+	at com.mchange.v2.c3p0.WrapperConnectionPoolDataSource.getPooledConnection(WrapperConnectionPoolDataSource.java:171)
+	at com.mchange.v2.c3p0.impl.C3P0PooledConnectionPool$1PooledConnectionResourcePoolManager.acquireResource(C3P0PooledConnectionPool.java:137)
+	at com.mchange.v2.resourcepool.BasicResourcePool.doAcquire(BasicResourcePool.java:1014)
+	at com.mchange.v2.resourcepool.BasicResourcePool.access$800(BasicResourcePool.java:32)
+	at com.mchange.v2.resourcepool.BasicResourcePool$AcquireTask.run(BasicResourcePool.java:1810)
+	at com.mchange.v2.async.ThreadPoolAsynchronousRunner$PoolThread.run(ThreadPoolAsynchronousRunner.java:547)
+[2014-05-30 15:46:25]WARN  com.mchange.v2.c3p0.DriverManagerDataSource(line:108) -Could not load driverClass org.postgresql.Driver
+java.lang.ClassNotFoundException: org.postgresql.Driver
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:366)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:425)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:308)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:358)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:190)
+	at com.mchange.v2.c3p0.DriverManagerDataSource.ensureDriverLoaded(DriverManagerDataSource.java:101)
+	at com.mchange.v2.c3p0.DriverManagerDataSource.getConnection(DriverManagerDataSource.java:133)
+	at com.mchange.v2.c3p0.WrapperConnectionPoolDataSource.getPooledConnection(WrapperConnectionPoolDataSource.java:182)
+	at com.mchange.v2.c3p0.WrapperConnectionPoolDataSource.getPooledConnection(WrapperConnectionPoolDataSource.java:171)
+	at com.mchange.v2.c3p0.impl.C3P0PooledConnectionPool$1PooledConnectionResourcePoolManager.acquireResource(C3P0PooledConnectionPool.java:137)
+	at com.mchange.v2.resourcepool.BasicResourcePool.doAcquire(BasicResourcePool.java:1014)
+	at com.mchange.v2.resourcepool.BasicResourcePool.access$800(BasicResourcePool.java:32)
+	at com.mchange.v2.resourcepool.BasicResourcePool$AcquireTask.run(BasicResourcePool.java:1810)
+	at com.mchange.v2.async.ThreadPoolAsynchronousRunner$PoolThread.run(ThreadPoolAsynchronousRunner.java:547)
+[2014-05-30 15:46:26]WARN  com.mchange.v2.c3p0.DriverManagerDataSource(line:108) -Could not load driverClass org.postgresql.Driver
+java.lang.ClassNotFoundException: org.postgresql.Driver
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:366)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:425)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:308)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:358)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:190)
+	at com.mchange.v2.c3p0.DriverManagerDataSource.ensureDriverLoaded(DriverManagerDataSource.java:101)
+	at com.mchange.v2.c3p0.DriverManagerDataSource.getConnection(DriverManagerDataSource.java:133)
+	at com.mchange.v2.c3p0.WrapperConnectionPoolDataSource.getPooledConnection(WrapperConnectionPoolDataSource.java:182)
+	at com.mchange.v2.c3p0.WrapperConnectionPoolDataSource.getPooledConnection(WrapperConnectionPoolDataSource.java:171)
+	at com.mchange.v2.c3p0.impl.C3P0PooledConnectionPool$1PooledConnectionResourcePoolManager.acquireResource(C3P0PooledConnectionPool.java:137)
+	at com.mchange.v2.resourcepool.BasicResourcePool.doAcquire(BasicResourcePool.java:1014)
+	at com.mchange.v2.resourcepool.BasicResourcePool.access$800(BasicResourcePool.java:32)
+	at com.mchange.v2.resourcepool.BasicResourcePool$AcquireTask.run(BasicResourcePool.java:1810)
+	at com.mchange.v2.async.ThreadPoolAsynchronousRunner$PoolThread.run(ThreadPoolAsynchronousRunner.java:547)
+[2014-05-30 15:46:26]WARN  com.mchange.v2.c3p0.DriverManagerDataSource(line:108) -Could not load driverClass org.postgresql.Driver
+java.lang.ClassNotFoundException: org.postgresql.Driver
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:366)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:425)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:308)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:358)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:190)
+	at com.mchange.v2.c3p0.DriverManagerDataSource.ensureDriverLoaded(DriverManagerDataSource.java:101)
+	at com.mchange.v2.c3p0.DriverManagerDataSource.getConnection(DriverManagerDataSource.java:133)
+	at com.mchange.v2.c3p0.WrapperConnectionPoolDataSource.getPooledConnection(WrapperConnectionPoolDataSource.java:182)
+	at com.mchange.v2.c3p0.WrapperConnectionPoolDataSource.getPooledConnection(WrapperConnectionPoolDataSource.java:171)
+	at com.mchange.v2.c3p0.impl.C3P0PooledConnectionPool$1PooledConnectionResourcePoolManager.acquireResource(C3P0PooledConnectionPool.java:137)
+	at com.mchange.v2.resourcepool.BasicResourcePool.doAcquire(BasicResourcePool.java:1014)
+	at com.mchange.v2.resourcepool.BasicResourcePool.access$800(BasicResourcePool.java:32)
+	at com.mchange.v2.resourcepool.BasicResourcePool$AcquireTask.run(BasicResourcePool.java:1810)
+	at com.mchange.v2.async.ThreadPoolAsynchronousRunner$PoolThread.run(ThreadPoolAsynchronousRunner.java:547)
+[2014-05-30 15:46:26]WARN  com.mchange.v2.c3p0.DriverManagerDataSource(line:108) -Could not load driverClass org.postgresql.Driver
+java.lang.ClassNotFoundException: org.postgresql.Driver
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:366)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:425)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:308)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:358)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:190)
+	at com.mchange.v2.c3p0.DriverManagerDataSource.ensureDriverLoaded(DriverManagerDataSource.java:101)
+	at com.mchange.v2.c3p0.DriverManagerDataSource.getConnection(DriverManagerDataSource.java:133)
+	at com.mchange.v2.c3p0.WrapperConnectionPoolDataSource.getPooledConnection(WrapperConnectionPoolDataSource.java:182)
+	at com.mchange.v2.c3p0.WrapperConnectionPoolDataSource.getPooledConnection(WrapperConnectionPoolDataSource.java:171)
+	at com.mchange.v2.c3p0.impl.C3P0PooledConnectionPool$1PooledConnectionResourcePoolManager.acquireResource(C3P0PooledConnectionPool.java:137)
+	at com.mchange.v2.resourcepool.BasicResourcePool.doAcquire(BasicResourcePool.java:1014)
+	at com.mchange.v2.resourcepool.BasicResourcePool.access$800(BasicResourcePool.java:32)
+	at com.mchange.v2.resourcepool.BasicResourcePool$AcquireTask.run(BasicResourcePool.java:1810)
+	at com.mchange.v2.async.ThreadPoolAsynchronousRunner$PoolThread.run(ThreadPoolAsynchronousRunner.java:547)
+[2014-05-30 15:48:25]INFO  com.hy.wyy.quartz.test.SimpleExamplee(line:20) -------------- Initializing-----------------
+[2014-05-30 15:48:25]INFO  com.mchange.v2.log.MLog(line:80) -MLog clients using log4j logging.
+[2014-05-30 15:48:25]INFO  com.mchange.v2.c3p0.C3P0Registry(line:204) -Initializing c3p0-0.9.1.1 [built 15-March-2007 01:32:31; debug? true; trace: 10]
+[2014-05-30 15:48:25]INFO  org.quartz.impl.StdSchedulerFactory(line:1141) -Using default implementation for ThreadExecutor
+[2014-05-30 15:48:25]INFO  org.quartz.simpl.SimpleThreadPool(line:270) -Job execution threads will use class loader of thread: main
+[2014-05-30 15:48:25]INFO  org.quartz.core.SchedulerSignalerImpl(line:61) -Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+[2014-05-30 15:48:25]INFO  org.quartz.core.QuartzScheduler(line:238) -Quartz Scheduler v.2.0.2 created.
+[2014-05-30 15:48:25]INFO  org.quartz.impl.jdbcjobstore.JobStoreTX(line:638) -Using db table-based data access locking (synchronization).
+[2014-05-30 15:48:25]INFO  org.quartz.impl.jdbcjobstore.JobStoreTX(line:58) -JobStoreTX initialized.
+[2014-05-30 15:48:25]INFO  org.quartz.core.QuartzScheduler(line:259) -Scheduler meta-data: Quartz Scheduler (v2.0.2) 'TestQuartzScheduler' with instanceId 'panrui-PC1401436105534'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.impl.jdbcjobstore.JobStoreTX' - which supports persistence. and is clustered.
+
+[2014-05-30 15:48:25]INFO  org.quartz.impl.StdSchedulerFactory(line:1288) -Quartz scheduler 'TestQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+[2014-05-30 15:48:25]INFO  org.quartz.impl.StdSchedulerFactory(line:1292) -Quartz scheduler version: 2.0.2
+[2014-05-30 15:48:25]INFO  com.hy.wyy.quartz.test.SimpleExamplee(line:23) -------------- Initialization Complete--------
+[2014-05-30 15:48:25]INFO  com.hy.wyy.quartz.test.SimpleExamplee(line:25) ---------Scheduling Job-----------------
+[2014-05-30 15:48:25]INFO  com.mchange.v2.c3p0.impl.AbstractPoolBackedDataSource(line:462) -Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 3, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, dataSourceName -> 1hge13t92l45jj5fypn62|73790581, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> org.postgresql.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1hge13t92l45jj5fypn62|73790581, idleConnectionTestPeriod -> 50, initialPoolSize -> 3, jdbcUrl -> jdbc:postgresql://localhost/dev, lastAcquisitionFailureDefaultUser -> null, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 0, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 20, maxStatements -> 0, maxStatementsPerConnection -> 120, minPoolSize -> 1, numHelperThreads -> 3, numThreadsAwaitingCheckoutDefaultUser -> 0, preferredTestQuery -> select 0, properties -> {user=******, password=******}, propertyCycle -> 0, testConnectionOnCheckin -> true, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false ]
+[2014-05-30 15:48:27]INFO  org.quartz.utils.UpdateChecker(line:84) -New Quartz update(s) found: 2.1.7 [http://www.terracotta.org/kit/reflector?kitID=default&pageID=QuartzChangeLog]
+[2014-05-30 16:11:54]INFO  com.hy.wyy.quartz.test.SimpleExamplee(line:20) -------------- Initializing-----------------
+[2014-05-30 16:11:55]INFO  com.mchange.v2.log.MLog(line:80) -MLog clients using log4j logging.
+[2014-05-30 16:11:55]INFO  com.mchange.v2.c3p0.C3P0Registry(line:204) -Initializing c3p0-0.9.1.1 [built 15-March-2007 01:32:31; debug? true; trace: 10]
+[2014-05-30 16:11:55]INFO  org.quartz.impl.StdSchedulerFactory(line:1141) -Using default implementation for ThreadExecutor
+[2014-05-30 16:11:55]INFO  org.quartz.simpl.SimpleThreadPool(line:270) -Job execution threads will use class loader of thread: main
+[2014-05-30 16:11:55]INFO  org.quartz.core.SchedulerSignalerImpl(line:61) -Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+[2014-05-30 16:11:55]INFO  org.quartz.core.QuartzScheduler(line:238) -Quartz Scheduler v.2.0.2 created.
+[2014-05-30 16:11:55]INFO  org.quartz.impl.jdbcjobstore.JobStoreTX(line:638) -Using db table-based data access locking (synchronization).
+[2014-05-30 16:11:55]INFO  org.quartz.impl.jdbcjobstore.JobStoreTX(line:58) -JobStoreTX initialized.
+[2014-05-30 16:11:55]INFO  org.quartz.core.QuartzScheduler(line:259) -Scheduler meta-data: Quartz Scheduler (v2.0.2) 'TestQuartzScheduler' with instanceId 'panrui-PC1401437515375'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.impl.jdbcjobstore.JobStoreTX' - which supports persistence. and is clustered.
+
+[2014-05-30 16:11:55]INFO  org.quartz.impl.StdSchedulerFactory(line:1288) -Quartz scheduler 'TestQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+[2014-05-30 16:11:55]INFO  org.quartz.impl.StdSchedulerFactory(line:1292) -Quartz scheduler version: 2.0.2
+[2014-05-30 16:11:55]INFO  com.hy.wyy.quartz.test.SimpleExamplee(line:23) -------------- Initialization Complete--------
+[2014-05-30 16:11:55]INFO  com.hy.wyy.quartz.test.SimpleExamplee(line:25) ---------Scheduling Job-----------------
+[2014-05-30 16:11:55]INFO  com.mchange.v2.c3p0.impl.AbstractPoolBackedDataSource(line:462) -Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 3, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, dataSourceName -> 1hge13t92l4zrdf1iv202i|29a9c73, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> org.postgresql.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1hge13t92l4zrdf1iv202i|29a9c73, idleConnectionTestPeriod -> 50, initialPoolSize -> 3, jdbcUrl -> jdbc:postgresql://localhost/dev, lastAcquisitionFailureDefaultUser -> null, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 0, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 20, maxStatements -> 0, maxStatementsPerConnection -> 120, minPoolSize -> 1, numHelperThreads -> 3, numThreadsAwaitingCheckoutDefaultUser -> 0, preferredTestQuery -> select 0, properties -> {user=******, password=******}, propertyCycle -> 0, testConnectionOnCheckin -> true, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false ]
+[2014-05-30 16:11:55]INFO  com.hy.wyy.quartz.test.SimpleExamplee(line:31) -group1.job1will run at:Fri May 30 16:12:00 CST 2014
+[2014-05-30 16:11:55]INFO  com.hy.wyy.quartz.test.SimpleExamplee(line:33) ------------waiting 65 seconds.....------------
+[2014-05-30 16:11:57]INFO  org.quartz.utils.UpdateChecker(line:84) -New Quartz update(s) found: 2.1.7 [http://www.terracotta.org/kit/reflector?kitID=default&pageID=QuartzChangeLog]
+[2014-05-30 16:13:00]INFO  com.hy.wyy.quartz.test.SimpleExamplee(line:36) ------------Shutting Down....--------
+[2014-05-30 16:13:00]INFO  org.quartz.core.QuartzScheduler(line:639) -Scheduler TestQuartzScheduler_$_panrui-PC1401437515375 shutting down.
+[2014-05-30 16:13:00]INFO  org.quartz.core.QuartzScheduler(line:560) -Scheduler TestQuartzScheduler_$_panrui-PC1401437515375 paused.
+[2014-05-30 16:13:00]INFO  org.quartz.core.QuartzScheduler(line:711) -Scheduler TestQuartzScheduler_$_panrui-PC1401437515375 shutdown complete.
+[2014-05-30 16:14:18]INFO  com.hy.wyy.quartz.test.SimpleExample(line:28) -initialzation
+[2014-05-30 16:14:18]INFO  com.mchange.v2.log.MLog(line:80) -MLog clients using log4j logging.
+[2014-05-30 16:14:19]INFO  com.mchange.v2.c3p0.C3P0Registry(line:204) -Initializing c3p0-0.9.1.1 [built 15-March-2007 01:32:31; debug? true; trace: 10]
+[2014-05-30 16:14:19]INFO  org.quartz.impl.StdSchedulerFactory(line:1141) -Using default implementation for ThreadExecutor
+[2014-05-30 16:14:19]INFO  org.quartz.simpl.SimpleThreadPool(line:270) -Job execution threads will use class loader of thread: main
+[2014-05-30 16:14:19]INFO  org.quartz.core.SchedulerSignalerImpl(line:61) -Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+[2014-05-30 16:14:19]INFO  org.quartz.core.QuartzScheduler(line:238) -Quartz Scheduler v.2.0.2 created.
+[2014-05-30 16:14:19]INFO  org.quartz.impl.jdbcjobstore.JobStoreTX(line:638) -Using db table-based data access locking (synchronization).
+[2014-05-30 16:14:19]INFO  org.quartz.impl.jdbcjobstore.JobStoreTX(line:58) -JobStoreTX initialized.
+[2014-05-30 16:14:19]INFO  org.quartz.core.QuartzScheduler(line:259) -Scheduler meta-data: Quartz Scheduler (v2.0.2) 'TestQuartzScheduler' with instanceId 'panrui-PC1401437659171'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.impl.jdbcjobstore.JobStoreTX' - which supports persistence. and is clustered.
+
+[2014-05-30 16:14:19]INFO  org.quartz.impl.StdSchedulerFactory(line:1288) -Quartz scheduler 'TestQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+[2014-05-30 16:14:19]INFO  org.quartz.impl.StdSchedulerFactory(line:1292) -Quartz scheduler version: 2.0.2
+[2014-05-30 16:14:19]INFO  com.mchange.v2.c3p0.impl.AbstractPoolBackedDataSource(line:462) -Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 3, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, dataSourceName -> 1hge13t92l52ucu1457jh9|4e92d1d9, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> org.postgresql.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1hge13t92l52ucu1457jh9|4e92d1d9, idleConnectionTestPeriod -> 50, initialPoolSize -> 3, jdbcUrl -> jdbc:postgresql://localhost/dev, lastAcquisitionFailureDefaultUser -> null, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 0, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 20, maxStatements -> 0, maxStatementsPerConnection -> 120, minPoolSize -> 1, numHelperThreads -> 3, numThreadsAwaitingCheckoutDefaultUser -> 0, preferredTestQuery -> select 0, properties -> {user=******, password=******}, propertyCycle -> 0, testConnectionOnCheckin -> true, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false ]
+[2014-05-30 16:14:19]INFO  org.quartz.core.QuartzScheduler(line:523) -Scheduler TestQuartzScheduler_$_panrui-PC1401437659171 started.
+[2014-05-30 16:14:19]INFO  org.quartz.impl.jdbcjobstore.JobStoreTX(line:916) -Handling 1 trigger(s) that missed their scheduled fire-time.
+[2014-05-30 16:14:19]ERROR org.quartz.impl.jdbcjobstore.JobStoreTX(line:3869) -MisfireHandler: Error handling misfires: Couldn't retrieve trigger: 不良的类型值 long : \x
+org.quartz.JobPersistenceException: Couldn't retrieve trigger: 不良的类型值 long : \x [See nested exception: org.postgresql.util.PSQLException: 不良的类型值 long : \x]
+	at org.quartz.impl.jdbcjobstore.JobStoreSupport.retrieveTrigger(JobStoreSupport.java:1485)
+	at org.quartz.impl.jdbcjobstore.JobStoreSupport.recoverMisfiredJobs(JobStoreSupport.java:927)
+	at org.quartz.impl.jdbcjobstore.JobStoreSupport.doRecoverMisfires(JobStoreSupport.java:3108)
+	at org.quartz.impl.jdbcjobstore.JobStoreSupport$MisfireHandler.manage(JobStoreSupport.java:3864)
+	at org.quartz.impl.jdbcjobstore.JobStoreSupport$MisfireHandler.run(JobStoreSupport.java:3884)
+Caused by: org.postgresql.util.PSQLException: 不良的类型值 long : \x
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.toLong(AbstractJdbc2ResultSet.java:2971)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getLong(AbstractJdbc2ResultSet.java:2163)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getBlob(AbstractJdbc2ResultSet.java:378)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getBlob(AbstractJdbc2ResultSet.java:366)
+	at com.mchange.v2.c3p0.impl.NewProxyResultSet.getBlob(NewProxyResultSet.java:285)
+	at org.quartz.impl.jdbcjobstore.StdJDBCDelegate.getObjectFromBlob(StdJDBCDelegate.java:3118)
+	at org.quartz.impl.jdbcjobstore.StdJDBCDelegate.selectTrigger(StdJDBCDelegate.java:1768)
+	at org.quartz.impl.jdbcjobstore.JobStoreSupport.retrieveTrigger(JobStoreSupport.java:1481)
+	... 4 more
+[2014-05-30 16:14:19]ERROR org.quartz.core.ErrorLogger(line:2318) -An error occurred while scanning for the next triggers to fire.
+org.quartz.JobPersistenceException: Couldn't acquire next trigger: Couldn't retrieve trigger: 不良的类型值 long : \x [See nested exception: org.quartz.JobPersistenceException: Couldn't retrieve trigger: 不良的类型值 long : \x [See nested exception: org.postgresql.util.PSQLException: 不良的类型值 long : \x]]
+	at org.quartz.impl.jdbcjobstore.JobStoreSupport.acquireNextTrigger(JobStoreSupport.java:2763)
+	at org.quartz.impl.jdbcjobstore.JobStoreSupport$41.execute(JobStoreSupport.java:2705)
+	at org.quartz.impl.jdbcjobstore.JobStoreSupport.executeInNonManagedTXLock(JobStoreSupport.java:3731)
+	at org.quartz.impl.jdbcjobstore.JobStoreSupport.acquireNextTriggers(JobStoreSupport.java:2701)
+	at org.quartz.core.QuartzSchedulerThread.run(QuartzSchedulerThread.java:264)
+Caused by: org.quartz.JobPersistenceException: Couldn't retrieve trigger: 不良的类型值 long : \x [See nested exception: org.postgresql.util.PSQLException: 不良的类型值 long : \x]
+	at org.quartz.impl.jdbcjobstore.JobStoreSupport.retrieveTrigger(JobStoreSupport.java:1485)
+	at org.quartz.impl.jdbcjobstore.JobStoreSupport.acquireNextTrigger(JobStoreSupport.java:2738)
+	... 4 more
+Caused by: org.postgresql.util.PSQLException: 不良的类型值 long : \x
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.toLong(AbstractJdbc2ResultSet.java:2971)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getLong(AbstractJdbc2ResultSet.java:2163)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getBlob(AbstractJdbc2ResultSet.java:378)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getBlob(AbstractJdbc2ResultSet.java:366)
+	at com.mchange.v2.c3p0.impl.NewProxyResultSet.getBlob(NewProxyResultSet.java:285)
+	at org.quartz.impl.jdbcjobstore.StdJDBCDelegate.getObjectFromBlob(StdJDBCDelegate.java:3118)
+	at org.quartz.impl.jdbcjobstore.StdJDBCDelegate.selectTrigger(StdJDBCDelegate.java:1768)
+	at org.quartz.impl.jdbcjobstore.JobStoreSupport.retrieveTrigger(JobStoreSupport.java:1481)
+	... 5 more
+[2014-05-30 16:14:21]INFO  org.quartz.utils.UpdateChecker(line:84) -New Quartz update(s) found: 2.1.7 [http://www.terracotta.org/kit/reflector?kitID=default&pageID=QuartzChangeLog]
+[2014-05-30 16:15:30]INFO  com.mchange.v2.log.MLog(line:80) -MLog clients using log4j logging.
+[2014-05-30 16:15:30]INFO  com.mchange.v2.c3p0.C3P0Registry(line:204) -Initializing c3p0-0.9.1.1 [built 15-March-2007 01:32:31; debug? true; trace: 10]
+[2014-05-30 16:15:30]INFO  org.quartz.impl.StdSchedulerFactory(line:1141) -Using default implementation for ThreadExecutor
+[2014-05-30 16:15:30]INFO  org.quartz.simpl.SimpleThreadPool(line:270) -Job execution threads will use class loader of thread: main
+[2014-05-30 16:15:30]INFO  org.quartz.core.SchedulerSignalerImpl(line:61) -Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+[2014-05-30 16:15:30]INFO  org.quartz.core.QuartzScheduler(line:238) -Quartz Scheduler v.2.0.2 created.
+[2014-05-30 16:15:30]INFO  org.quartz.impl.jdbcjobstore.JobStoreTX(line:638) -Using db table-based data access locking (synchronization).
+[2014-05-30 16:15:30]INFO  org.quartz.impl.jdbcjobstore.JobStoreTX(line:58) -JobStoreTX initialized.
+[2014-05-30 16:15:30]INFO  org.quartz.core.QuartzScheduler(line:259) -Scheduler meta-data: Quartz Scheduler (v2.0.2) 'TestQuartzScheduler' with instanceId 'panrui-PC1401437730933'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.impl.jdbcjobstore.JobStoreTX' - which supports persistence. and is clustered.
+
+[2014-05-30 16:15:30]INFO  org.quartz.impl.StdSchedulerFactory(line:1288) -Quartz scheduler 'TestQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+[2014-05-30 16:15:30]INFO  org.quartz.impl.StdSchedulerFactory(line:1292) -Quartz scheduler version: 2.0.2
+[2014-05-30 16:15:31]INFO  com.mchange.v2.c3p0.impl.AbstractPoolBackedDataSource(line:462) -Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 3, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, dataSourceName -> 1hge13t92l54do3kfh11s|3862bba7, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> org.postgresql.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1hge13t92l54do3kfh11s|3862bba7, idleConnectionTestPeriod -> 50, initialPoolSize -> 3, jdbcUrl -> jdbc:postgresql://localhost/dev, lastAcquisitionFailureDefaultUser -> null, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 0, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 20, maxStatements -> 0, maxStatementsPerConnection -> 120, minPoolSize -> 1, numHelperThreads -> 3, numThreadsAwaitingCheckoutDefaultUser -> 0, preferredTestQuery -> select 0, properties -> {user=******, password=******}, propertyCycle -> 0, testConnectionOnCheckin -> true, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false ]
+[2014-05-30 16:15:31]INFO  org.quartz.impl.jdbcjobstore.JobStoreTX(line:3489) -ClusterManager: detected 1 failed or restarted instances.
+[2014-05-30 16:15:31]INFO  org.quartz.impl.jdbcjobstore.JobStoreTX(line:3350) -ClusterManager: Scanning for instance "panrui-PC1401437659171"'s failed in-progress jobs.
+[2014-05-30 16:15:31]INFO  org.quartz.core.QuartzScheduler(line:523) -Scheduler TestQuartzScheduler_$_panrui-PC1401437730933 started.
+[2014-05-30 16:15:31]INFO  org.quartz.impl.jdbcjobstore.JobStoreTX(line:916) -Handling 2 trigger(s) that missed their scheduled fire-time.
+[2014-05-30 16:15:31]ERROR org.quartz.impl.jdbcjobstore.JobStoreTX(line:3869) -MisfireHandler: Error handling misfires: Couldn't retrieve trigger: 不良的类型值 long : \x
+org.quartz.JobPersistenceException: Couldn't retrieve trigger: 不良的类型值 long : \x [See nested exception: org.postgresql.util.PSQLException: 不良的类型值 long : \x]
+	at org.quartz.impl.jdbcjobstore.JobStoreSupport.retrieveTrigger(JobStoreSupport.java:1485)
+	at org.quartz.impl.jdbcjobstore.JobStoreSupport.recoverMisfiredJobs(JobStoreSupport.java:927)
+	at org.quartz.impl.jdbcjobstore.JobStoreSupport.doRecoverMisfires(JobStoreSupport.java:3108)
+	at org.quartz.impl.jdbcjobstore.JobStoreSupport$MisfireHandler.manage(JobStoreSupport.java:3864)
+	at org.quartz.impl.jdbcjobstore.JobStoreSupport$MisfireHandler.run(JobStoreSupport.java:3884)
+Caused by: org.postgresql.util.PSQLException: 不良的类型值 long : \x
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.toLong(AbstractJdbc2ResultSet.java:2971)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getLong(AbstractJdbc2ResultSet.java:2163)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getBlob(AbstractJdbc2ResultSet.java:378)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getBlob(AbstractJdbc2ResultSet.java:366)
+	at com.mchange.v2.c3p0.impl.NewProxyResultSet.getBlob(NewProxyResultSet.java:285)
+	at org.quartz.impl.jdbcjobstore.StdJDBCDelegate.getObjectFromBlob(StdJDBCDelegate.java:3118)
+	at org.quartz.impl.jdbcjobstore.StdJDBCDelegate.selectTrigger(StdJDBCDelegate.java:1768)
+	at org.quartz.impl.jdbcjobstore.JobStoreSupport.retrieveTrigger(JobStoreSupport.java:1481)
+	... 4 more
+[2014-05-30 16:15:33]INFO  org.quartz.utils.UpdateChecker(line:84) -New Quartz update(s) found: 2.1.7 [http://www.terracotta.org/kit/reflector?kitID=default&pageID=QuartzChangeLog]
+[2014-05-30 16:16:31]INFO  org.quartz.impl.jdbcjobstore.JobStoreTX(line:916) -Handling 2 trigger(s) that missed their scheduled fire-time.
+[2014-05-30 16:17:31]INFO  org.quartz.impl.jdbcjobstore.JobStoreTX(line:916) -Handling 2 trigger(s) that missed their scheduled fire-time.
+[2014-05-30 16:18:31]INFO  org.quartz.impl.jdbcjobstore.JobStoreTX(line:916) -Handling 2 trigger(s) that missed their scheduled fire-time.
+[2014-05-30 16:18:58]INFO  com.mchange.v2.log.MLog(line:80) -MLog clients using log4j logging.
+[2014-05-30 16:18:59]INFO  com.mchange.v2.c3p0.C3P0Registry(line:204) -Initializing c3p0-0.9.1.1 [built 15-March-2007 01:32:31; debug? true; trace: 10]
+[2014-05-30 16:18:59]INFO  org.quartz.impl.StdSchedulerFactory(line:1141) -Using default implementation for ThreadExecutor
+[2014-05-30 16:18:59]INFO  org.quartz.simpl.SimpleThreadPool(line:270) -Job execution threads will use class loader of thread: main
+[2014-05-30 16:18:59]INFO  org.quartz.core.SchedulerSignalerImpl(line:61) -Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+[2014-05-30 16:18:59]INFO  org.quartz.core.QuartzScheduler(line:238) -Quartz Scheduler v.2.0.2 created.
+[2014-05-30 16:18:59]INFO  org.quartz.impl.jdbcjobstore.JobStoreTX(line:638) -Using db table-based data access locking (synchronization).
+[2014-05-30 16:18:59]INFO  org.quartz.impl.jdbcjobstore.JobStoreTX(line:58) -JobStoreTX initialized.
+[2014-05-30 16:18:59]INFO  org.quartz.core.QuartzScheduler(line:259) -Scheduler meta-data: Quartz Scheduler (v2.0.2) 'TestQuartzScheduler' with instanceId 'panrui-PC1401437939074'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.impl.jdbcjobstore.JobStoreTX' - which supports persistence. and is clustered.
+
+[2014-05-30 16:18:59]INFO  org.quartz.impl.StdSchedulerFactory(line:1288) -Quartz scheduler 'TestQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+[2014-05-30 16:18:59]INFO  org.quartz.impl.StdSchedulerFactory(line:1292) -Quartz scheduler version: 2.0.2
+[2014-05-30 16:18:59]INFO  com.mchange.v2.c3p0.impl.AbstractPoolBackedDataSource(line:462) -Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 3, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, dataSourceName -> 1hge13t92l58uaj1pogchu|5a0deddc, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> org.postgresql.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1hge13t92l58uaj1pogchu|5a0deddc, idleConnectionTestPeriod -> 50, initialPoolSize -> 3, jdbcUrl -> jdbc:postgresql://localhost/dev, lastAcquisitionFailureDefaultUser -> null, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 0, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 20, maxStatements -> 0, maxStatementsPerConnection -> 120, minPoolSize -> 1, numHelperThreads -> 3, numThreadsAwaitingCheckoutDefaultUser -> 0, preferredTestQuery -> select 0, properties -> {user=******, password=******}, propertyCycle -> 0, testConnectionOnCheckin -> true, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false ]
+[2014-05-30 16:18:59]INFO  org.quartz.core.QuartzScheduler(line:523) -Scheduler TestQuartzScheduler_$_panrui-PC1401437939074 started.
+[2014-05-30 16:18:59]INFO  org.quartz.impl.jdbcjobstore.JobStoreTX(line:916) -Handling 2 trigger(s) that missed their scheduled fire-time.
+[2014-05-30 16:18:59]ERROR org.quartz.impl.jdbcjobstore.JobStoreTX(line:3869) -MisfireHandler: Error handling misfires: Couldn't retrieve trigger: 不良的类型值 long : \x
+org.quartz.JobPersistenceException: Couldn't retrieve trigger: 不良的类型值 long : \x [See nested exception: org.postgresql.util.PSQLException: 不良的类型值 long : \x]
+	at org.quartz.impl.jdbcjobstore.JobStoreSupport.retrieveTrigger(JobStoreSupport.java:1485)
+	at org.quartz.impl.jdbcjobstore.JobStoreSupport.recoverMisfiredJobs(JobStoreSupport.java:927)
+	at org.quartz.impl.jdbcjobstore.JobStoreSupport.doRecoverMisfires(JobStoreSupport.java:3108)
+	at org.quartz.impl.jdbcjobstore.JobStoreSupport$MisfireHandler.manage(JobStoreSupport.java:3864)
+	at org.quartz.impl.jdbcjobstore.JobStoreSupport$MisfireHandler.run(JobStoreSupport.java:3884)
+Caused by: org.postgresql.util.PSQLException: 不良的类型值 long : \x
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.toLong(AbstractJdbc2ResultSet.java:2971)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getLong(AbstractJdbc2ResultSet.java:2163)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getBlob(AbstractJdbc2ResultSet.java:378)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getBlob(AbstractJdbc2ResultSet.java:366)
+	at com.mchange.v2.c3p0.impl.NewProxyResultSet.getBlob(NewProxyResultSet.java:285)
+	at org.quartz.impl.jdbcjobstore.StdJDBCDelegate.getObjectFromBlob(StdJDBCDelegate.java:3118)
+	at org.quartz.impl.jdbcjobstore.StdJDBCDelegate.selectTrigger(StdJDBCDelegate.java:1768)
+	at org.quartz.impl.jdbcjobstore.JobStoreSupport.retrieveTrigger(JobStoreSupport.java:1481)
+	... 4 more
+[2014-05-30 16:19:01]INFO  org.quartz.utils.UpdateChecker(line:84) -New Quartz update(s) found: 2.1.7 [http://www.terracotta.org/kit/reflector?kitID=default&pageID=QuartzChangeLog]
+[2014-05-30 16:19:31]INFO  org.quartz.impl.jdbcjobstore.JobStoreTX(line:916) -Handling 2 trigger(s) that missed their scheduled fire-time.
+[2014-05-30 16:19:31]ERROR org.quartz.impl.jdbcjobstore.JobStoreTX(line:3869) -MisfireHandler: Error handling misfires: Couldn't retrieve trigger: Cannot convert the column of type BYTEA to requested type long.
+org.quartz.JobPersistenceException: Couldn't retrieve trigger: Cannot convert the column of type BYTEA to requested type long. [See nested exception: org.postgresql.util.PSQLException: Cannot convert the column of type BYTEA to requested type long.]
+	at org.quartz.impl.jdbcjobstore.JobStoreSupport.retrieveTrigger(JobStoreSupport.java:1485)
+	at org.quartz.impl.jdbcjobstore.JobStoreSupport.recoverMisfiredJobs(JobStoreSupport.java:927)
+	at org.quartz.impl.jdbcjobstore.JobStoreSupport.doRecoverMisfires(JobStoreSupport.java:3108)
+	at org.quartz.impl.jdbcjobstore.JobStoreSupport$MisfireHandler.manage(JobStoreSupport.java:3864)
+	at org.quartz.impl.jdbcjobstore.JobStoreSupport$MisfireHandler.run(JobStoreSupport.java:3884)
+Caused by: org.postgresql.util.PSQLException: Cannot convert the column of type BYTEA to requested type long.
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.readLongValue(AbstractJdbc2ResultSet.java:3174)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getLong(AbstractJdbc2ResultSet.java:2152)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getBlob(AbstractJdbc2ResultSet.java:378)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getBlob(AbstractJdbc2ResultSet.java:366)
+	at com.mchange.v2.c3p0.impl.NewProxyResultSet.getBlob(NewProxyResultSet.java:285)
+	at org.quartz.impl.jdbcjobstore.StdJDBCDelegate.getObjectFromBlob(StdJDBCDelegate.java:3118)
+	at org.quartz.impl.jdbcjobstore.StdJDBCDelegate.selectTrigger(StdJDBCDelegate.java:1768)
+	at org.quartz.impl.jdbcjobstore.JobStoreSupport.retrieveTrigger(JobStoreSupport.java:1481)
+	... 4 more
+[2014-05-30 16:19:59]INFO  org.quartz.impl.jdbcjobstore.JobStoreTX(line:916) -Handling 2 trigger(s) that missed their scheduled fire-time.
+[2014-05-30 16:20:01]INFO  com.hy.wyy.quartz.test.SimpleExamplee(line:20) -------------- Initializing-----------------
+[2014-05-30 16:20:01]INFO  com.mchange.v2.log.MLog(line:80) -MLog clients using log4j logging.
+[2014-05-30 16:20:01]INFO  com.mchange.v2.c3p0.C3P0Registry(line:204) -Initializing c3p0-0.9.1.1 [built 15-March-2007 01:32:31; debug? true; trace: 10]
+[2014-05-30 16:20:01]INFO  org.quartz.impl.StdSchedulerFactory(line:1141) -Using default implementation for ThreadExecutor
+[2014-05-30 16:20:01]INFO  org.quartz.simpl.SimpleThreadPool(line:270) -Job execution threads will use class loader of thread: main
+[2014-05-30 16:20:01]INFO  org.quartz.core.SchedulerSignalerImpl(line:61) -Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+[2014-05-30 16:20:01]INFO  org.quartz.core.QuartzScheduler(line:238) -Quartz Scheduler v.2.0.2 created.
+[2014-05-30 16:20:01]INFO  org.quartz.impl.jdbcjobstore.JobStoreTX(line:638) -Using db table-based data access locking (synchronization).
+[2014-05-30 16:20:01]INFO  org.quartz.impl.jdbcjobstore.JobStoreTX(line:58) -JobStoreTX initialized.
+[2014-05-30 16:20:01]INFO  org.quartz.core.QuartzScheduler(line:259) -Scheduler meta-data: Quartz Scheduler (v2.0.2) 'TestQuartzScheduler' with instanceId 'panrui-PC1401438001870'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.impl.jdbcjobstore.JobStoreTX' - which supports persistence. and is clustered.
+
+[2014-05-30 16:20:01]INFO  org.quartz.impl.StdSchedulerFactory(line:1288) -Quartz scheduler 'TestQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+[2014-05-30 16:20:01]INFO  org.quartz.impl.StdSchedulerFactory(line:1292) -Quartz scheduler version: 2.0.2
+[2014-05-30 16:20:01]INFO  com.hy.wyy.quartz.test.SimpleExamplee(line:23) -------------- Initialization Complete--------
+[2014-05-30 16:20:01]INFO  com.hy.wyy.quartz.test.SimpleExamplee(line:25) ---------Scheduling Job-----------------
+[2014-05-30 16:20:02]INFO  com.mchange.v2.c3p0.impl.AbstractPoolBackedDataSource(line:462) -Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 3, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, dataSourceName -> 1hge13t92l5a6rguv3w8d|73790581, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> org.postgresql.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1hge13t92l5a6rguv3w8d|73790581, idleConnectionTestPeriod -> 50, initialPoolSize -> 3, jdbcUrl -> jdbc:postgresql://localhost/dev, lastAcquisitionFailureDefaultUser -> null, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 0, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 20, maxStatements -> 0, maxStatementsPerConnection -> 120, minPoolSize -> 1, numHelperThreads -> 3, numThreadsAwaitingCheckoutDefaultUser -> 0, preferredTestQuery -> select 0, properties -> {user=******, password=******}, propertyCycle -> 0, testConnectionOnCheckin -> true, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false ]
+[2014-05-30 16:20:04]INFO  org.quartz.utils.UpdateChecker(line:84) -New Quartz update(s) found: 2.1.7 [http://www.terracotta.org/kit/reflector?kitID=default&pageID=QuartzChangeLog]
+[2014-05-30 16:21:27]INFO  com.hy.wyy.quartz.test.SimpleExamplee(line:20) -------------- Initializing-----------------
+[2014-05-30 16:21:27]INFO  com.mchange.v2.log.MLog(line:80) -MLog clients using log4j logging.
+[2014-05-30 16:21:27]INFO  com.mchange.v2.c3p0.C3P0Registry(line:204) -Initializing c3p0-0.9.1.1 [built 15-March-2007 01:32:31; debug? true; trace: 10]
+[2014-05-30 16:21:27]INFO  org.quartz.impl.StdSchedulerFactory(line:1141) -Using default implementation for ThreadExecutor
+[2014-05-30 16:21:27]INFO  org.quartz.simpl.SimpleThreadPool(line:270) -Job execution threads will use class loader of thread: main
+[2014-05-30 16:21:27]INFO  org.quartz.core.SchedulerSignalerImpl(line:61) -Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+[2014-05-30 16:21:27]INFO  org.quartz.core.QuartzScheduler(line:238) -Quartz Scheduler v.2.0.2 created.
+[2014-05-30 16:21:27]INFO  org.quartz.impl.jdbcjobstore.JobStoreTX(line:638) -Using db table-based data access locking (synchronization).
+[2014-05-30 16:21:27]INFO  org.quartz.impl.jdbcjobstore.JobStoreTX(line:58) -JobStoreTX initialized.
+[2014-05-30 16:21:27]INFO  org.quartz.core.QuartzScheduler(line:259) -Scheduler meta-data: Quartz Scheduler (v2.0.2) 'TestQuartzScheduler' with instanceId 'panrui-PC1401438087947'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.impl.jdbcjobstore.JobStoreTX' - which supports persistence. and is clustered.
+
+[2014-05-30 16:21:27]INFO  org.quartz.impl.StdSchedulerFactory(line:1288) -Quartz scheduler 'TestQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+[2014-05-30 16:21:27]INFO  org.quartz.impl.StdSchedulerFactory(line:1292) -Quartz scheduler version: 2.0.2
+[2014-05-30 16:21:27]INFO  com.hy.wyy.quartz.test.SimpleExamplee(line:23) -------------- Initialization Complete--------
+[2014-05-30 16:21:27]INFO  com.hy.wyy.quartz.test.SimpleExamplee(line:25) ---------Scheduling Job-----------------
+[2014-05-30 16:21:28]INFO  com.mchange.v2.c3p0.impl.AbstractPoolBackedDataSource(line:462) -Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 3, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, dataSourceName -> 1hge13t92l5c16avt618e|73790581, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> org.postgresql.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1hge13t92l5c16avt618e|73790581, idleConnectionTestPeriod -> 50, initialPoolSize -> 3, jdbcUrl -> jdbc:postgresql://localhost/dev, lastAcquisitionFailureDefaultUser -> null, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 0, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 20, maxStatements -> 0, maxStatementsPerConnection -> 120, minPoolSize -> 1, numHelperThreads -> 3, numThreadsAwaitingCheckoutDefaultUser -> 0, preferredTestQuery -> select 0, properties -> {user=******, password=******}, propertyCycle -> 0, testConnectionOnCheckin -> true, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false ]
+[2014-05-30 16:21:28]INFO  com.hy.wyy.quartz.test.SimpleExamplee(line:31) -g1.j1will run at:Fri May 30 16:22:00 CST 2014
+[2014-05-30 16:21:28]INFO  com.hy.wyy.quartz.test.SimpleExamplee(line:33) ------------waiting 65 seconds.....------------
+[2014-05-30 16:21:30]INFO  org.quartz.utils.UpdateChecker(line:84) -New Quartz update(s) found: 2.1.7 [http://www.terracotta.org/kit/reflector?kitID=default&pageID=QuartzChangeLog]
+[2014-05-30 16:22:33]INFO  com.hy.wyy.quartz.test.SimpleExamplee(line:36) ------------Shutting Down....--------
+[2014-05-30 16:22:33]INFO  org.quartz.core.QuartzScheduler(line:639) -Scheduler TestQuartzScheduler_$_panrui-PC1401438087947 shutting down.
+[2014-05-30 16:22:33]INFO  org.quartz.core.QuartzScheduler(line:560) -Scheduler TestQuartzScheduler_$_panrui-PC1401438087947 paused.
+[2014-05-30 16:22:33]INFO  org.quartz.core.QuartzScheduler(line:711) -Scheduler TestQuartzScheduler_$_panrui-PC1401438087947 shutdown complete.
+[2014-05-30 16:53:40]INFO  com.mchange.v2.log.MLog(line:80) -MLog clients using log4j logging.
+[2014-05-30 16:53:40]INFO  com.mchange.v2.c3p0.C3P0Registry(line:204) -Initializing c3p0-0.9.1.1 [built 15-March-2007 01:32:31; debug? true; trace: 10]
+[2014-05-30 16:53:40]INFO  org.quartz.impl.StdSchedulerFactory(line:1141) -Using default implementation for ThreadExecutor
+[2014-05-30 16:53:40]INFO  org.quartz.simpl.SimpleThreadPool(line:270) -Job execution threads will use class loader of thread: main
+[2014-05-30 16:53:40]INFO  org.quartz.core.SchedulerSignalerImpl(line:61) -Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+[2014-05-30 16:53:40]INFO  org.quartz.core.QuartzScheduler(line:238) -Quartz Scheduler v.2.0.2 created.
+[2014-05-30 16:53:40]INFO  org.quartz.impl.jdbcjobstore.JobStoreTX(line:638) -Using db table-based data access locking (synchronization).
+[2014-05-30 16:53:40]INFO  org.quartz.impl.jdbcjobstore.JobStoreTX(line:58) -JobStoreTX initialized.
+[2014-05-30 16:53:40]INFO  org.quartz.core.QuartzScheduler(line:259) -Scheduler meta-data: Quartz Scheduler (v2.0.2) 'TestQuartzScheduler' with instanceId 'panrui-PC1401440020903'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.impl.jdbcjobstore.JobStoreTX' - which supports persistence. and is clustered.
+
+[2014-05-30 16:53:40]INFO  org.quartz.impl.StdSchedulerFactory(line:1288) -Quartz scheduler 'TestQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+[2014-05-30 16:53:40]INFO  org.quartz.impl.StdSchedulerFactory(line:1292) -Quartz scheduler version: 2.0.2
+[2014-05-30 16:53:41]INFO  com.mchange.v2.c3p0.impl.AbstractPoolBackedDataSource(line:462) -Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 3, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, dataSourceName -> 1hge13t92l6hgoa1htk1ti|36b4361a, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> org.postgresql.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1hge13t92l6hgoa1htk1ti|36b4361a, idleConnectionTestPeriod -> 50, initialPoolSize -> 3, jdbcUrl -> jdbc:postgresql://localhost/dev, lastAcquisitionFailureDefaultUser -> null, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 0, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 20, maxStatements -> 0, maxStatementsPerConnection -> 120, minPoolSize -> 1, numHelperThreads -> 3, numThreadsAwaitingCheckoutDefaultUser -> 0, preferredTestQuery -> select 0, properties -> {user=******, password=******}, propertyCycle -> 0, testConnectionOnCheckin -> true, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false ]
+[2014-05-30 16:53:43]INFO  org.quartz.utils.UpdateChecker(line:84) -New Quartz update(s) found: 2.1.7 [http://www.terracotta.org/kit/reflector?kitID=default&pageID=QuartzChangeLog]
+[2014-05-30 16:56:14]INFO  com.mchange.v2.log.MLog(line:80) -MLog clients using log4j logging.
+[2014-05-30 16:56:14]INFO  com.mchange.v2.c3p0.C3P0Registry(line:204) -Initializing c3p0-0.9.1.1 [built 15-March-2007 01:32:31; debug? true; trace: 10]
+[2014-05-30 16:56:14]INFO  org.quartz.impl.StdSchedulerFactory(line:1141) -Using default implementation for ThreadExecutor
+[2014-05-30 16:56:14]INFO  org.quartz.simpl.SimpleThreadPool(line:270) -Job execution threads will use class loader of thread: main
+[2014-05-30 16:56:14]INFO  org.quartz.core.SchedulerSignalerImpl(line:61) -Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+[2014-05-30 16:56:14]INFO  org.quartz.core.QuartzScheduler(line:238) -Quartz Scheduler v.2.0.2 created.
+[2014-05-30 16:56:14]INFO  org.quartz.impl.jdbcjobstore.JobStoreTX(line:638) -Using db table-based data access locking (synchronization).
+[2014-05-30 16:56:14]INFO  org.quartz.impl.jdbcjobstore.JobStoreTX(line:58) -JobStoreTX initialized.
+[2014-05-30 16:56:14]INFO  org.quartz.core.QuartzScheduler(line:259) -Scheduler meta-data: Quartz Scheduler (v2.0.2) 'TestQuartzScheduler' with instanceId 'panrui-PC1401440174644'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.impl.jdbcjobstore.JobStoreTX' - which supports persistence. and is clustered.
+
+[2014-05-30 16:56:14]INFO  org.quartz.impl.StdSchedulerFactory(line:1288) -Quartz scheduler 'TestQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+[2014-05-30 16:56:14]INFO  org.quartz.impl.StdSchedulerFactory(line:1292) -Quartz scheduler version: 2.0.2
+[2014-05-30 16:56:14]INFO  com.mchange.v2.c3p0.impl.AbstractPoolBackedDataSource(line:462) -Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 3, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, dataSourceName -> 1hge13t92l6kralao8sbp|36b4361a, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> org.postgresql.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1hge13t92l6kralao8sbp|36b4361a, idleConnectionTestPeriod -> 50, initialPoolSize -> 3, jdbcUrl -> jdbc:postgresql://localhost/dev, lastAcquisitionFailureDefaultUser -> null, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 0, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 20, maxStatements -> 0, maxStatementsPerConnection -> 120, minPoolSize -> 1, numHelperThreads -> 3, numThreadsAwaitingCheckoutDefaultUser -> 0, preferredTestQuery -> select 0, properties -> {user=******, password=******}, propertyCycle -> 0, testConnectionOnCheckin -> true, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false ]
+[2014-05-30 16:56:16]INFO  org.quartz.utils.UpdateChecker(line:84) -New Quartz update(s) found: 2.1.7 [http://www.terracotta.org/kit/reflector?kitID=default&pageID=QuartzChangeLog]
+[2014-05-30 16:57:31]INFO  com.mchange.v2.log.MLog(line:80) -MLog clients using log4j logging.
+[2014-05-30 16:57:31]INFO  com.mchange.v2.c3p0.C3P0Registry(line:204) -Initializing c3p0-0.9.1.1 [built 15-March-2007 01:32:31; debug? true; trace: 10]
+[2014-05-30 16:57:31]INFO  org.quartz.impl.StdSchedulerFactory(line:1141) -Using default implementation for ThreadExecutor
+[2014-05-30 16:57:31]INFO  org.quartz.simpl.SimpleThreadPool(line:270) -Job execution threads will use class loader of thread: main
+[2014-05-30 16:57:31]INFO  org.quartz.core.SchedulerSignalerImpl(line:61) -Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+[2014-05-30 16:57:31]INFO  org.quartz.core.QuartzScheduler(line:238) -Quartz Scheduler v.2.0.2 created.
+[2014-05-30 16:57:31]INFO  org.quartz.impl.jdbcjobstore.JobStoreTX(line:638) -Using db table-based data access locking (synchronization).
+[2014-05-30 16:57:31]INFO  org.quartz.impl.jdbcjobstore.JobStoreTX(line:58) -JobStoreTX initialized.
+[2014-05-30 16:57:31]INFO  org.quartz.core.QuartzScheduler(line:259) -Scheduler meta-data: Quartz Scheduler (v2.0.2) 'TestQuartzScheduler' with instanceId 'panrui-PC1401440251396'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.impl.jdbcjobstore.JobStoreTX' - which supports persistence. and is clustered.
+
+[2014-05-30 16:57:31]INFO  org.quartz.impl.StdSchedulerFactory(line:1288) -Quartz scheduler 'TestQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+[2014-05-30 16:57:31]INFO  org.quartz.impl.StdSchedulerFactory(line:1292) -Quartz scheduler version: 2.0.2
+[2014-05-30 16:57:31]INFO  com.mchange.v2.c3p0.impl.AbstractPoolBackedDataSource(line:462) -Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 3, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, dataSourceName -> 1hge13t92l6meii1fdd9y1|36b4361a, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> org.postgresql.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1hge13t92l6meii1fdd9y1|36b4361a, idleConnectionTestPeriod -> 50, initialPoolSize -> 3, jdbcUrl -> jdbc:postgresql://localhost/dev, lastAcquisitionFailureDefaultUser -> null, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 0, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 20, maxStatements -> 0, maxStatementsPerConnection -> 120, minPoolSize -> 1, numHelperThreads -> 3, numThreadsAwaitingCheckoutDefaultUser -> 0, preferredTestQuery -> select 0, properties -> {user=******, password=******}, propertyCycle -> 0, testConnectionOnCheckin -> true, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false ]
+[2014-05-30 16:57:33]INFO  org.quartz.utils.UpdateChecker(line:84) -New Quartz update(s) found: 2.1.7 [http://www.terracotta.org/kit/reflector?kitID=default&pageID=QuartzChangeLog]
+[2014-05-30 17:00:03]INFO  com.mchange.v2.log.MLog(line:80) -MLog clients using log4j logging.
+[2014-05-30 17:00:03]INFO  com.mchange.v2.c3p0.C3P0Registry(line:204) -Initializing c3p0-0.9.1.1 [built 15-March-2007 01:32:31; debug? true; trace: 10]
+[2014-05-30 17:00:03]INFO  org.quartz.impl.StdSchedulerFactory(line:1141) -Using default implementation for ThreadExecutor
+[2014-05-30 17:00:03]INFO  org.quartz.simpl.SimpleThreadPool(line:270) -Job execution threads will use class loader of thread: main
+[2014-05-30 17:00:03]INFO  org.quartz.core.SchedulerSignalerImpl(line:61) -Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+[2014-05-30 17:00:03]INFO  org.quartz.core.QuartzScheduler(line:238) -Quartz Scheduler v.2.0.2 created.
+[2014-05-30 17:00:03]INFO  org.quartz.impl.jdbcjobstore.JobStoreTX(line:638) -Using db table-based data access locking (synchronization).
+[2014-05-30 17:00:03]INFO  org.quartz.impl.jdbcjobstore.JobStoreTX(line:58) -JobStoreTX initialized.
+[2014-05-30 17:00:03]INFO  org.quartz.core.QuartzScheduler(line:259) -Scheduler meta-data: Quartz Scheduler (v2.0.2) 'TestQuartzScheduler' with instanceId 'panrui-PC1401440403379'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.impl.jdbcjobstore.JobStoreTX' - which supports persistence. and is clustered.
+
+[2014-05-30 17:00:03]INFO  org.quartz.impl.StdSchedulerFactory(line:1288) -Quartz scheduler 'TestQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+[2014-05-30 17:00:03]INFO  org.quartz.impl.StdSchedulerFactory(line:1292) -Quartz scheduler version: 2.0.2
+[2014-05-30 17:00:03]INFO  com.mchange.v2.c3p0.impl.AbstractPoolBackedDataSource(line:462) -Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 3, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, dataSourceName -> 1hge13t92l6pnsj82037e|36b4361a, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> org.postgresql.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1hge13t92l6pnsj82037e|36b4361a, idleConnectionTestPeriod -> 50, initialPoolSize -> 3, jdbcUrl -> jdbc:postgresql://localhost/dev, lastAcquisitionFailureDefaultUser -> null, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 0, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 20, maxStatements -> 0, maxStatementsPerConnection -> 120, minPoolSize -> 1, numHelperThreads -> 3, numThreadsAwaitingCheckoutDefaultUser -> 0, preferredTestQuery -> select 0, properties -> {user=******, password=******}, propertyCycle -> 0, testConnectionOnCheckin -> true, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false ]
+[2014-05-30 17:00:03]INFO  com.hy.wyy.quartz.test.SimpleTrigger2(line:42) -j2................
+[2014-05-30 17:00:03]INFO  com.hy.wyy.quartz.test.SimpleTrigger2(line:49) -j3...............
+[2014-05-30 17:17:27]INFO  com.mchange.v2.log.MLog(line:80) -MLog clients using log4j logging.
+[2014-05-30 17:17:27]INFO  com.mchange.v2.c3p0.C3P0Registry(line:204) -Initializing c3p0-0.9.1.1 [built 15-March-2007 01:32:31; debug? true; trace: 10]
+[2014-05-30 17:17:27]INFO  org.quartz.impl.StdSchedulerFactory(line:1184) -Using default implementation for ThreadExecutor
+[2014-05-30 17:17:27]INFO  org.quartz.simpl.SimpleThreadPool(line:268) -Job execution threads will use class loader of thread: main
+[2014-05-30 17:17:27]INFO  org.quartz.core.SchedulerSignalerImpl(line:61) -Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+[2014-05-30 17:17:27]INFO  org.quartz.core.QuartzScheduler(line:240) -Quartz Scheduler v.2.2.1 created.
+[2014-05-30 17:17:27]INFO  org.quartz.impl.jdbcjobstore.JobStoreTX(line:667) -Using db table-based data access locking (synchronization).
+[2014-05-30 17:17:27]INFO  org.quartz.impl.jdbcjobstore.JobStoreTX(line:59) -JobStoreTX initialized.
+[2014-05-30 17:17:27]INFO  org.quartz.core.QuartzScheduler(line:305) -Scheduler meta-data: Quartz Scheduler (v2.2.1) 'TestQuartzScheduler' with instanceId 'panrui-PC1401441447441'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.impl.jdbcjobstore.JobStoreTX' - which supports persistence. and is clustered.
+
+[2014-05-30 17:17:27]INFO  org.quartz.impl.StdSchedulerFactory(line:1339) -Quartz scheduler 'TestQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+[2014-05-30 17:17:27]INFO  org.quartz.impl.StdSchedulerFactory(line:1343) -Quartz scheduler version: 2.2.1
+[2014-05-30 17:17:27]INFO  com.mchange.v2.c3p0.impl.AbstractPoolBackedDataSource(line:462) -Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 3, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, dataSourceName -> 1hge13t92l7c1eigsr8v2|26ae11f6, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> org.postgresql.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1hge13t92l7c1eigsr8v2|26ae11f6, idleConnectionTestPeriod -> 50, initialPoolSize -> 3, jdbcUrl -> jdbc:postgresql://localhost/dev, lastAcquisitionFailureDefaultUser -> null, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 0, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 20, maxStatements -> 0, maxStatementsPerConnection -> 120, minPoolSize -> 1, numHelperThreads -> 3, numThreadsAwaitingCheckoutDefaultUser -> 0, preferredTestQuery -> select 0, properties -> {user=******, password=******}, propertyCycle -> 0, testConnectionOnCheckin -> true, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false ]
+[2014-05-30 17:17:27]INFO  com.hy.wyy.quartz.test.SimpleTrigger2(line:42) -j2................
+[2014-05-30 17:17:27]INFO  com.hy.wyy.quartz.test.SimpleTrigger2(line:49) -j3...............

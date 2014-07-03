@@ -1,0 +1,13 @@
+com.hy.wyy.quartz.test 包下的类只是一些测试类,没啥用,不过可以看一下
+
+测试环境: postgreSQL 9.3
+具体属性可以查看 quartz.properties
+Quartz  包下这三个类 是暂定为Quartz的工具类 ,只是初步定个框框.应该还有很多可以优化的地方.... ,Job是动态的,可以不用定义,那样写法会更灵活....
+
+持久化需预先在数据库建表,在quartz-2.2.1-distribution.tar里面  /doc/dbTables里面有建表SQL.
+
+
+
+说实话,,快半年没整j2ee的东西了,没以前那么熟练了.... 有事QQ或电话(18670221640),随时联系........
+
+
